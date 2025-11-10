@@ -58,10 +58,10 @@ A simple conceptual demo showing streaming payments between agents:
 ```
 
 ## Highlights:
-	•	Streaming: Each call triggers a micro-payment
-	•	Trustless: x402 + ERC-8004 ensure verifiable, secure payments
-	•	Agent-to-Agent: Fully autonomous interactions
-	•	Transparent: On-chain events support reward distribution and reputation
+- Streaming: Each call triggers a micro-payment
+- Trustless: x402 + ERC-8004 ensure verifiable, secure payments
+- Agent-to-Agent: Fully autonomous interactions
+- Transparent: On-chain events support reward distribution and reputation
 
 ## Implementation Notes
 - Focus on defining clear **payment flows** and **usage logging**.
