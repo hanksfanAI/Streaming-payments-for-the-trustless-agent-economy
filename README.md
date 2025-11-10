@@ -66,7 +66,7 @@ A simple conceptual demo showing streaming payments between agents:
 ## Implementation Notes
 - Focus on defining clear **payment flows** and **usage logging**.
 - Stub each step with logs to demonstrate interactions without full code.
-- Keywords: `streaming`, `x402`, `agent payments`, `ERC-8004`.
+- Keywords: `streaming`, `x402`, `trustless agent payments`, `ERC-8004`.
 
 ## Status
 **Implementation:** In progress  
